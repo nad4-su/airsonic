@@ -19,8 +19,7 @@ git clone https://github.com/nad4-su/airsonic.git
 ```
 docker compose up -d ##or docker-compose up {-d}
 ```
-3. insert music path
-The music folder path is './airsonic/music/'
+3. insert music path : The music folder path is './airsonic/music/'
 
 
 ## [Reference]
