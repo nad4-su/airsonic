@@ -21,6 +21,7 @@ docker compose up -d ##or docker-compose up {-d}
 ```
 3. insert music path : The music folder path is './airsonic/music/'
 
+4. Jukebox mod Setting : Settings > Players > Select player `Jukebox`
 
 ## [Reference]
 - [Airsonic git Link](https://github.com/airsonic/airsonic)
